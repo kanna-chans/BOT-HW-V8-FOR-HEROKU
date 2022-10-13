@@ -19,11 +19,11 @@ global.mygc = 'wa.me/6287841959988'
 global.myweb = 'https://eclass.iainsalatiga.ac.id/app/upload/users/1/10892/my_files/XhiroMhonshine.html'
 global.linkgrupss = "https://chat.whatsapp.com/Jh7zaCSnPCBC4gdYOEVm0K"
 global.linkpro = 'mailto:support@whatsapp.com?subject=Deactivate%20My%20Account%20Number&body=Please%20Deactivate%20The%20My%20Account%20Number%20%2B62XXXXXXXX%20Immediately%20Because%20The%20Number%20Has%20Been%20Lost'
-global.email = 'denyp857@gmail.com'
+global.email = 'vanytzy77@gmail.com'
 global.region = 'indonesia'
 //—————「 Set Nama Own & Bot 」—————//
 global.ownername = 'ꪶ𖣂ꫂADIGANZ-OWNERꪶ𖣂ꫂ' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = 'ꪶ𖣂ꫂBOT-CRASH-INFINITEꪶ𖣂ꫂ //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.botname = 'ꪶ𖣂ꫂBOT-CRASH-INFINITEꪶ𖣂ꫂ' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
 global.footer = 'ꪶ𖣂ꫂADI-CRASH-INVISIBLEꪶ𖣂ꫂ' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
