@@ -15,23 +15,23 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
 global.youtube = 'https://youtube.com/c/HwModsWa857'
 global.ig = 'https://www.instagram.com/hikal_857/?hl=id'
-global.mygc = 'wa.me/6287841959988'
+global.mygc = 'wa.me/+17077567487'
 global.myweb = 'https://eclass.iainsalatiga.ac.id/app/upload/users/1/10892/my_files/XhiroMhonshine.html'
 global.linkgrupss = "https://chat.whatsapp.com/Jh7zaCSnPCBC4gdYOEVm0K"
 global.linkpro = 'mailto:support@whatsapp.com?subject=Deactivate%20My%20Account%20Number&body=Please%20Deactivate%20The%20My%20Account%20Number%20%2B62XXXXXXXX%20Immediately%20Because%20The%20Number%20Has%20Been%20Lost'
 global.email = 'vanytzy77@gmail.com'
 global.region = 'indonesia'
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'ADI-STORE-AMANAH👈' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = '©BOT-HALAL' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = 'STAY-HALAL-BROTHER🤓' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = 'RAXCEL-DEV👻' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = '©RAXCEL-XD👻' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.footer = 'RAXCEL-XD👻' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
-global.owner = ['6287841959988']
-global.premium = ['6287841959988']
-global.packname = 'ADI-STORE-AMANAH👈'
-global.ownerr = ['©BOT-HALAL']
-global.author = 'STAY-HALAL-BROTHER🤓'
+global.owner = ['17077567487']
+global.premium = ['17077567487']
+global.packname = 'RAXCEL-DEV👻'
+global.ownerr = ['©RAXCEL-DEV👻']
+global.author = 'RAXCEL-XD👻'
 global.sessionName = './sessionye/haikal'
 global.prefa = ['','!','.',',','🐤','🗿']
 global.sp = '⭔'
